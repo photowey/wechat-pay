@@ -1,7 +1,7 @@
 /*
  * @Author: photowey
  * @Date: 2022-01-29 21:32:43
- * @LastEditTime: 2022-01-29 21:32:44
+ * @LastEditTime: 2022-02-01 16:59:25
  * @LastEditors: photowey
  * @Description: main.go
  * @FilePath: \wechat-pay\main.go
@@ -10,10 +10,14 @@
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
+	sayHello()
+}
 
+func sayHello() {
 	fmt.Print("Hello World!")
-
 }

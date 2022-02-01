@@ -1,10 +1,10 @@
 /*
  * @Author: photowey
- * @Date: 2022-01-29 21:45:33
- * @LastEditTime: 2022-01-29 21:48:55
+ * @Date: 2022-02-01 17:33:57
+ * @LastEditTime: 2022-02-01 17:33:57
  * @LastEditors: photowey
  * @Description: payment.go
- * @FilePath: \wechat-pay\payment\payment.go
+ * @FilePath: \wechat-pay\cmd\payment\payment.go
  * Copyright (c) 2022 by photowey<photowey@gmail.com>, All Rights Reserved.
  */
 
