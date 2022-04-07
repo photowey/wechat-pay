@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-02-01 17:24:38
  * @LastEditors: photowey
  * @Description: app.go
- * @FilePath: \wechat-pay\cmd\payment\app\app.go
+ * @FilePath: /wechat-pay/cmd/payment/app/app.go
  * Copyright (c) 2022 by photowey<photowey@gmail.com>, All Rights Reserved.
  */
 

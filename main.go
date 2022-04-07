@@ -4,20 +4,20 @@
  * @LastEditTime: 2022-02-01 16:59:25
  * @LastEditors: photowey
  * @Description: main.go
- * @FilePath: \wechat-pay\main.go
+ * @FilePath: /wechat-pay/main.go
  * Copyright (c) 2022 by <photowey@gmail.com>, All Rights Reserved.
  */
 
 package main
 
 import (
-	"fmt"
+    "fmt"
 )
 
 func main() {
-	sayHello()
+    sayHello()
 }
 
 func sayHello() {
-	fmt.Print("Hello World!")
+    fmt.Print("Hello World!")
 }
